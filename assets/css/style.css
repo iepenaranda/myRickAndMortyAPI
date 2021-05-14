@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(222, 241, 222);
+}
+
+.divHeader {
+    width: 100%;
+}
+
+.header {
+    background-color: rgb(26, 26, 26);
+    color: lightskyblue;
+}
+
+.styleContenedor {
+    margin-top: 150px;
+}
+
+.footer {
+    background-color: rgb(26, 26, 26);
+    color: lightskyblue;
+    font-size: 20px;
+}
+
+ul {
+    padding: 0 40%;
+    list-style-type: none;
+}
+
+.card-text {
+    font-weight: 600;
+}
+
+.pj .card {
+    border-width: 7px;
+    margin: 5px;
+    border-radius: 15px;
+}
+
+.Human {
+    border-color: lightskyblue;
+}
+
+.Alien {
+    border-color: lime;
+}
+
+.Humanoid {
+    border-color: mediumslateblue;
+}
+
+.Poopybutthole {
+    border-color: yellow;
+}
+
+.Mythological.Creature {
+    border-color: purple
+}
